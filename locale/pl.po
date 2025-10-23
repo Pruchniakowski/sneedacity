@@ -14,7 +14,7 @@ msgstr ""
 "Project-Id-Version: Sneedacity\n"
 "Report-Msgid-Bugs-To: sneedacity-translation@lists.sourceforge.net\n"
 "POT-Creation-Date: 2021-06-07 08:17-0400\n"
-"PO-Revision-Date: 2025-07-31 00:00+0000\n"
+"PO-Revision-Date: 2025-10-23 00:00+0000\n"
 "Last-Translator: Grzegorz Pruchniakowski <grzegorz.pruchniakowski@gmail.com>, 2013-2025\n"
 "Language-Team: Polish\n"
 "MIME-Version: 1.0\n"
@@ -11497,7 +11497,7 @@ msgid ""
 "\"%s\" is a playlist file. \n"
 "Sneedacity cannot open this file because it only contains links to other files. \n"
 "You may be able to open it in a text editor and download the actual audio files."
-msgstr "\"%s\" jest plikiem playlisty.\nSneedacity nie może otworzyć tego pliku, ponieważ zawiera on tylko linki do innych plików. \nMożesz otworzyć go w edytorze tekstowym i pobrać aktualne pliki dźwiękowe."
+msgstr "\"%s\" jest plikiem listy odtwarzania.\nSneedacity nie może otworzyć tego pliku, ponieważ zawiera on tylko linki do innych plików. \nMożesz otworzyć go w edytorze tekstowym i pobrać aktualne pliki dźwiękowe."
 
 #. i18n-hint: %s will be the filename
 #: src/import/Import.cpp
